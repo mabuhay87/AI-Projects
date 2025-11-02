@@ -1,15 +1,15 @@
-# 🧠 AI Projects
+# AI Projects
 
-> 🚀 **Training in Progress**  
+>  **Training in Progress**  
 > A growing collection of my hands-on projects in **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**.
 
 ---
 
-## 📘 About
+##  About
 This repository documents my continuous learning and practical development journey as I train in:
-- 🤖 Machine Learning (Supervised & Unsupervised)
-- 🧩 Deep Learning (Neural Networks, CNNs, LSTMs)
-- 🧠 Artificial Intelligence (NLP, Reinforcement Learning, and Intelligent Systems)
+-  Machine Learning (Supervised & Unsupervised)
+-  Deep Learning (Neural Networks, CNNs, LSTMs)
+-  Artificial Intelligence (NLP, Reinforcement Learning, and Intelligent Systems)
 
 Each project includes:
 - Jupyter Notebooks (`.ipynb`)
@@ -19,16 +19,16 @@ Each project includes:
 
 ---
 
-## 🧭 Project Categories
+##  Project Categories
 | Category | Description | Folder Link |
 |-----------|--------------|--------------|
-| 🧮 Machine Learning | Classical ML algorithms and predictive modeling | [Machine-Learning](Machine-Learning/) |
-| 🧬 Deep Learning | Neural networks and advanced AI models | [Deep-Learning](Deep-Learning/) |
-| 🤖 Artificial Intelligence | Intelligent agents, NLP, and automation | [Artificial-Intelligence](Artificial-Intelligence/) |
+|  Machine Learning | Classical ML algorithms and predictive modeling | [Machine-Learning](Machine-Learning/) |
+|  Deep Learning | Neural networks and advanced AI models | [Deep-Learning](Deep-Learning/) |
+|  Artificial Intelligence | Intelligent agents, NLP, and automation | [Artificial-Intelligence](Artificial-Intelligence/) |
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 | Category | Tools |
 |-----------|--------|
 | Language | Python 3 |
@@ -40,8 +40,8 @@ Each project includes:
 
 ---
 
-## 🌱 Current Status
-💡 *Machine Learning, Deep Learning, and AI training in progress.*  
+##  Current Status
+ *Machine Learning, Deep Learning, and AI training in progress.*  
 New projects will be added as I complete each stage of my learning roadmap.
 
 ---
@@ -51,4 +51,5 @@ New projects will be added as I complete each stage of my learning roadmap.
 ---
 
 > _"Learning AI is a journey — every project is a step toward mastery."_  
+
 > — *Cristina L. F*
