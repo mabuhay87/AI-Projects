@@ -42,9 +42,9 @@ Each project includes:
 Projects focused on classical Machine Learning techniques such as classification, regression, clustering, and model evaluation.
 *Coming Soon* 
 
-| # | Project | Description | Tools |
+| # | Project| Description | Tools |
 |---|----------|--------------|--------|
-| 1 | Customer_Churn_Project
+| 1 | Customer_Churn_Project = Customer churn prediction with ML + SHAP + Power BI.
 | 2 | 
 | 3 | 
 
@@ -66,3 +66,4 @@ New projects will be added as I complete each stage of my learning roadmap.
 > _"Learning AI is a journey every project is a step toward mastery."_  
 
 > *Cristina L. F*
+
