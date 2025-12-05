@@ -1,4 +1,4 @@
-# AI Projects
+# ML Projects
 
 >  **Training in Progress**  
 > A growing collection of my hands-on projects in **Machine Learning**.
@@ -64,4 +64,5 @@ New projects will be added as I complete each stage of my learning roadmap.
 ---
 
 > _"Learning AI is a journey every project is a step toward mastery."_  
+
 > *Cristina L. F*
