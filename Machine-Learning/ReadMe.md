@@ -51,8 +51,8 @@ Projects focused on classical Machine Learning techniques such as classification
 ---
 > _Part of my AI learning series focusing on data preprocessing, model training, and evaluation._
 
-## 🌱 Current Status
-💡 *Machine Learning, Deep Learning, and AI training in progress.*  
+## Current Status
+*Machine Learning, Deep Learning, and AI training in progress.*  
 New projects will be added as I complete each stage of my learning roadmap.
 
 
@@ -66,4 +66,5 @@ New projects will be added as I complete each stage of my learning roadmap.
 > _"Learning AI is a journey every project is a step toward mastery."_  
 
 > *Cristina L. F*
+
 
