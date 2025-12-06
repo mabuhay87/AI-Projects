@@ -44,7 +44,12 @@ Projects focused on classical Machine Learning techniques such as classification
 
 | # | Project | Description | Tools |
 |---|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 1 | Customer Churn Prediction - 
+
+
+
+| 1 | Customer Churn Prediction - A machine learning model that predicts which customers are likely to leave a subscription service using behavioral, 
+      demographic, and usage data. The project includes data  preprocessing, XGBoost modeling, SHAP explainability, and a Power BI dashboard that highlights churn risk segments and key drivers of customer 
+      attrition.
 
 | 2 | Social Security Claim Fraud Detection = This project uses machine learning to detect potential Social Security claim fraud by analyzing behavioral, financial, 
       and documentation-related risk factors. It 
@@ -71,6 +76,7 @@ New projects will be added as I complete each stage of my learning roadmap.
 > _"Learning AI is a journey every project is a step toward mastery."_  
 
 > *Cristina L. F*
+
 
 
 
